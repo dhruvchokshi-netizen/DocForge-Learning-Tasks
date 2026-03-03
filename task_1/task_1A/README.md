@@ -1,28 +1,3 @@
-Yes. This is a **strong Week 1**.
-
-Not overwhelming. Not toy-level. Not “copy-paste Kaggle.”
-It builds foundation bricks instead of throwing them into model training chaos.
-
-Let me structure this cleanly for you 👇
-
----
-
-# 🗓 Week 1 Structure
-
-You’ll give:
-
-* **Task 1A → Data Handling & Workflow**
-* **Task 1B → ML Thinking Basics**
-
-Week 1 goal is not “build AI.”
-Week 1 goal is:
-
-> Understand what data is and how ML *thinks*.
-
-That’s powerful.
-
----
-
 # 📁 WEEK 1 – TASK 1A
 
 ## Python, Pandas, Preprocessing & Git Basics
